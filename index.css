@@ -87,4 +87,5 @@ footer {
     color: white;
     text-align: center;
     grid-area: footer;
+    position: fixed;
 }
